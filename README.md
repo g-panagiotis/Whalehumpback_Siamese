@@ -1,5 +1,5 @@
 # Whalehumpback_Siamese
-Siamese CNN for Whalehumback identification  Kaggle (https://www.kaggle.com/c/humpback-whale-identification/leaderboard)
+Siamese CNN for Whalehumback identification  Kaggle (https://www.kaggle.com/c/humpback-whale-identification/overview)
 
 Dataset can be found here: https://www.kaggle.com/c/6818/download-all
 Siamese neural networks were introduced in the early 1990s by Bromley and LeCun. 
